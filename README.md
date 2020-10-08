@@ -11,7 +11,7 @@ This graph shows the average price per year. Just as you can assumed, the trend 
 
 <br>
 This shows the year vs. mileage. There is a negative correlation here. So the newer the car, the lower the mileage on the odometer.
-<img src="Data_Visualization/year vs mileage.png"> 
+<img src="Data_Visualization/years vs mileage.png"> 
 
 <br>
 This shows the average price vs. the mileage. Again, there is a negative correlation here. As the mileage on the car increase, the price will decrease.
@@ -23,4 +23,4 @@ This shows the average price per BMW type. BMW coupes are the most expensive, an
 
 <br>
 This bar chart shows the average price per status of the car. It is sorted by color of the car.
-<img src="Data_Visualization/price vs status.png"> 
+<img src="Data_Visualization/price per status.png"> 
